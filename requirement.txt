@@ -1,0 +1,25 @@
+# Core LangChain
+langchain
+langchain-core
+langchain-community
+
+# Google Gemini LLM
+langchain-google-genai
+google-genai
+
+# Tavily Web Search
+tavily-python
+
+# Web scraping / BeautifulSoup
+beautifulsoup4
+requests
+
+# Environment variables
+python-dotenv
+
+# LangGraph / ReAct agent support
+langgraph
+
+# Useful utilities
+pydantic
+typing-extensions
